@@ -8,5 +8,4 @@ seaborn
 streamlit
 streamlit-lottie
 streamlit-option-menu
-statsmodels==0.13.5
-scipy==1.8.1
+statsmodels

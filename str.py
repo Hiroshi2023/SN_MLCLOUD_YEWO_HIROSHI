@@ -1,3 +1,4 @@
+import statsmodels.api as sm
 import streamlit as st
 import pandas as pd
 import numpy as np

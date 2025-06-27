@@ -2,10 +2,11 @@ matplotlib
 numpy
 pandas
 plotly
-Requests
-scikit_learn
+requests
+scikit-learn
 seaborn
 streamlit
-streamlit_lottie
-streamlit_option_menu
-statsmodels
+streamlit-lottie
+streamlit-option-menu
+statsmodels==0.13.5
+scipy==1.9.3
